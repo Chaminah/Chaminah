@@ -1,4 +1,6 @@
-### Hi there 👋
+### I am a Developer
+
+>currently focused on .Net;
 
 <!--
 **Chaminah/Chaminah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
